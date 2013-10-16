@@ -8,4 +8,6 @@ List of useful resources for Ruby developers. If a blog or other resource listed
 * Eloquent Ruby
 * Metaprogramming Ruby
 
-## Blogs
+## People
+* [David Heinemeier Hansson](http://37signals.com/svn/writers/dhh)
+* [Yehuda Katz](http://yehudakatz.com/)
