@@ -11,3 +11,8 @@ List of useful resources for Ruby developers. If a blog or other resource listed
 ## People
 * [David Heinemeier Hansson](http://37signals.com/svn/writers/dhh)
 * [Yehuda Katz](http://yehudakatz.com/)
+* [Charles Nutter](http://blog.headius.com/)
+* [Chad Fowler](http://chadfowler.com/)
+* [Chris Matthieu](http://about.me/chrismatthieu)
+* [Chris O'Sullivan](http://www.thechrisoshow.com/)
+
